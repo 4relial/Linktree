@@ -2,11 +2,11 @@ export default {
     openGraph: {
         type: 'website',
         locale: 'en_IE',
-        title: 'next lnks by realvjy',
-        url: 'https://vjy.me',
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk.',
+        title: 'Arisu Soft',
+        url: 'https://arisu.my.id',
+        description: 'Daftar Nomor Bot Whatsapp Aktif',
         locale: 'en_EN',
-        keywords: 'designer, product designer, illustrator, indian designer, vijay verma, realvjy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, vijay realvjy, indian ui designer, design india, overlayz, nft art',
+        keywords: 'anime, bot whatsapp, arisu bot',
         images: [
             {
                 width: 1200,
